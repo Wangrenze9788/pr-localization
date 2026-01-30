@@ -78,4 +78,4 @@ Contributors
 * Spanish - [Leg-Ion](https://github.com/leg-ion)
 * Ukrainian - [Lyttym](https://github.com/Lyttym) 
 * Indonesian - [TommyFederal](https://github.com/TommyFederal) 
-* Brazilian Portuguese - [ParacetamoL217](https://github.com/ParacetamoL217), [Paracetamol](https://github.com/ParacetamoL217), [Gabo](https://github.com/GaboV3), [Concani](https://github.com/concani) and [Schultz](https://github.com/Vapex55)
+* Brazilian Portuguese - [ParacetamoL217](https://github.com/ParacetamoL217), [Paracetamol](https://github.com/ParacetamoL217), [Gabo](https://github.com/GaboV3), [Concani](https://github.com/concani), [Schultz](https://github.com/Vapex55), [GuilFe](https://github.com/GuilFe)
